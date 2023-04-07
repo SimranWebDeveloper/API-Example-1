@@ -1,7 +1,7 @@
 
 let min=0;
 let max=252;
-const nums=[[1,50],[51,100],[101,150],[151,200],[201,252]]
+const nums=[[0,50],[51,100],[101,150],[151,200],[201,251],[0,251]]
 
 
 btn=document.querySelectorAll('.bttn');
